@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Lucas",
+        "email": "lucas@email.com",
+        "cpf": "12345678910",
+        "profissao": "Programador de Software",
+        "endereco": {
+            "cep": "12345-678",
+            "rua": "Alameda Almeida, 27",
+            "bairro": "Serra Azul",
+            "cidade": "Campinas"
+        }
+    },
+    {
+        "nome": "José Almeida",
+        "email": "almeida@email.com",
+        "cpf": "12345678911",
+        "profissao": "Motorista",
+        "endereco": {
+            "cep": "12345-876",
+            "rua": "Rua Almirante",
+            "bairro": "Centro",
+            "cidade": "São Paulo"
+        }
+    },
+    {
+        "nome": "Maria Solange",
+        "email": "amaria@email.com",
+        "cpf": "12345678912",
+        "profissao": "Cabelereira",
+        "endereco": {
+            "cep": "12345-678",
+            "rua": "Rua Pomar",
+            "bairro": "Joaquim",
+            "cidade": "São Carlos"
+        }
+    }
+]
